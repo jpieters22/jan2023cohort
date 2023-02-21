@@ -113,11 +113,26 @@ Console.WriteLine(FindKey(TestDict, "Name"));
 //	"James": 7,
 //	"Monica": 10
 // } 
-// List<string> Names = new List<string> ();
-// static Dictionary<string,int> GenerateDictionary(List<string> Names, List<int> Numbers)
-// {
-//     // Your code here
-// }
+List<string> Names = new List<string> ();
+static Dictionary<string,int> GenerateDictionary(List<string> Names, List<int> Numbers)
+{
+    Dictionary<string, int> PplAndAges = new Dictionary<string, int>();
+    string s = "";
+    int n = 0;
+    for(int i = 0; i < Names.Count; i++){
+        s = Names[i];
+        n = Numbers[i];
+        PplAndAges.Add(s,n);
+    }
+    foreach(KeyValuePair<string, int> entry in PplAndAges){
+        Console.WriteLine($"{entry.Key} - {entry.Value}");
+    }
+    return PplAndAges;
+}
+List<string> names = new List<string> {"Joslyn", "Sierra", "Emily", "Liannys"};
+List<int> ages = new List<int> {21, 24, 22, 25};
+GenerateDictionary(names, ages);
 // We've shown several examples of how to set your tests up properly, it's your turn to set it up!
 // Your test code here
 
+//commentssss 
