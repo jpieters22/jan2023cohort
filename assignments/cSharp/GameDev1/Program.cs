@@ -50,3 +50,6 @@ MagicCaster1.PerformAttack(Meathead, MagicCaster1.AttackList[0]);
 
 MagicCaster1.Heal(RangedFighter1);
 MagicCaster1.Heal(MagicCaster1);
+
+Meathead.Rage(MagicCaster1);
+Console.WriteLine(MagicCaster1.Health);

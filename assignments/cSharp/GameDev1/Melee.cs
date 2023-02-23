@@ -8,4 +8,12 @@ public class Melee : Enemy {
         Attack Tackle = new Attack("Tackle", 25);
         base.AttackList.Add(Tackle);
     }
+
+    public void Rage(Enemy Target){
+        Attack randomAttack = base.Fetch();
+        randomAttack.DamageAmount += 10;
+        base.PerformAttack(Target, randomAttack);
+        randomAttack.DamageAmount -= 10;
+        Console.WriteLine($"{Name} used rage!");
+    }
 }
