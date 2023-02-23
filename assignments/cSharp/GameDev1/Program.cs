@@ -41,5 +41,12 @@ MagicCaster1.Fetch();
 Console.WriteLine(MagicCaster1.Name);
 Console.WriteLine(MagicCaster1.Health);
 
-Meathead.PerformAttack(MagicCaster1, Meathead.AttackList[0]);
+Meathead.PerformAttack(RangedFighter1, Meathead.AttackList[0]);
 RangedFighter1.PerformAttack(Shark, RangedFighter1.AttackList[1]);
+RangedFighter1.PerformAttack(Meathead, RangedFighter1.AttackList[0]);
+// RangedFighter1.Dash();
+
+MagicCaster1.PerformAttack(Meathead, MagicCaster1.AttackList[0]);
+
+MagicCaster1.Heal(RangedFighter1);
+MagicCaster1.Heal(MagicCaster1);

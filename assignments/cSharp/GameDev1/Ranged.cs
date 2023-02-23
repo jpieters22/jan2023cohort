@@ -3,6 +3,7 @@ public class Ranged : Enemy {
     public int Distance;
 
     public Ranged(string Name) : base(Name){
+        Distance = 5;
         base.Health = 100;
         Attack Arrow = new Attack("Arrow", 20);
         base.AttackList.Add(Arrow);
@@ -10,11 +11,11 @@ public class Ranged : Enemy {
         base.AttackList.Add(Knife);
     }
 
-    // public override void PerformAttack(Enemy Target, Attack ChosenAttack){
-    //     if(Distance < 10) {
-    //         base.PerformAttack(Target, ChosenAttack);
-    //     }
-    // }
+    public override void PerformAttack(Enemy Target, Attack ChosenAttack){
+        if(Distance < 10) {
+            base.PerformAttack(Target, ChosenAttack);
+        }
+    }
 
     public void Dash() {
         Distance = 20;

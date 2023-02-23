@@ -11,6 +11,6 @@ public class Magic : Enemy{
 
     public void Heal(Enemy Target) {
         Target.Health += 40;
-        Console.WriteLine($"{Name} has healed {Target.Name}! THeor new health is {Target.Health}!");
+        Console.WriteLine($"{Name} has healed {Target.Name}! Their new health is {Target.Health}!");
     }
 }
