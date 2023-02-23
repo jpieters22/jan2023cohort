@@ -1,0 +1,56 @@
+{
+  "SerializedFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\FirstMvcCommand.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "FirstMvcCommand",
+  "Documents": [
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\FirstMvcCommand\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}

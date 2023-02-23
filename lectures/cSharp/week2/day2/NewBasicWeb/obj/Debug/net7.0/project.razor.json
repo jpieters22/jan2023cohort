@@ -1,0 +1,36 @@
+{
+  "SerializedFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\NewBasicWeb\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\NewBasicWeb\\NewBasicWeb.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "NewBasicWeb",
+  "Documents": [
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\NewBasicWeb\\Views\\Form\\result.cshtml",
+      "TargetPath": "Views\\Form\\result.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\NewBasicWeb\\Views\\Root\\realRoute.cshtml",
+      "TargetPath": "Views\\Root\\realRoute.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\NewBasicWeb\\Views\\Root\\index.cshtml",
+      "TargetPath": "Views\\Root\\index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
