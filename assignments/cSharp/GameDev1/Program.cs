@@ -35,21 +35,25 @@ RangedFighter1.Fetch();
 Console.WriteLine(RangedFighter1.Name);
 Console.WriteLine(RangedFighter1.Health);
 
-Magic MagicCaster1 = new Magic("The Wiz");
+Magic TheWiz = new Magic("The Wiz");
+Magic HarryPotter = new Magic("Harry Potter");
 
-MagicCaster1.Fetch();
-Console.WriteLine(MagicCaster1.Name);
-Console.WriteLine(MagicCaster1.Health);
+TheWiz.Fetch();
+Console.WriteLine(TheWiz.Name);
+Console.WriteLine(TheWiz.Health);
 
 Meathead.PerformAttack(RangedFighter1, Meathead.AttackList[0]);
 RangedFighter1.PerformAttack(Shark, RangedFighter1.AttackList[1]);
 RangedFighter1.PerformAttack(Meathead, RangedFighter1.AttackList[0]);
 // RangedFighter1.Dash();
 
-MagicCaster1.PerformAttack(Meathead, MagicCaster1.AttackList[0]);
+TheWiz.PerformAttack(Meathead, TheWiz.AttackList[0]);
 
-MagicCaster1.Heal(RangedFighter1);
-MagicCaster1.Heal(MagicCaster1);
+TheWiz.Heal(RangedFighter1);
+TheWiz.Heal(TheWiz);
+TheWiz.Heal(Meathead);
 
-Meathead.Rage(MagicCaster1);
-Console.WriteLine(MagicCaster1.Health);
+
+Meathead.Rage(Shark);
+Console.WriteLine(TheWiz.Health);
+Console.WriteLine(HarryPotter.Health);

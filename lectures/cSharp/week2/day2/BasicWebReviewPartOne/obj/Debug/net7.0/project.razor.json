@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\BasicWebReviewPartOne.csproj",
+  "SerializedFilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\BasicWebReviewPartOne.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -17,12 +17,12 @@
   "RootNamespace": "BasicWebReviewPartOne",
   "Documents": [
     {
-      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\newAlt.cshtml",
+      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\newAlt.cshtml",
       "TargetPath": "Views\\Root\\newAlt.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\index.cshtml",
+      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\index.cshtml",
       "TargetPath": "Views\\Root\\index.cshtml",
       "FileKind": "mvc"
     }
