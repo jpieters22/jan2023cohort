@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fkRHLcFHWUk7HDvMT33qwG/+mPBtFU/bdUHlMxZczVrmPT2VbZfZhGnf+IqFVr0E0mcIOmFKPxowBaunVFPpFQ==",
+  "dgSpecHash": "SKGjHY5tEiWICIJQHj8RX0LCipI8/cA+XfZGm3PwUuZUEIqopQcJ7BsLZrT08MQ8ucYoj2XB2cEzWtv+6Pte8g==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\lectures\\cSharp\\week1\\day3\\ClassReview\\ClassReview.csproj",
+  "projectFilePath": "/Users/irish/coding/work/CodingDojo/instruction/wos/jan2023cohort/lectures/cSharp/week1/day3/ClassReview/ClassReview.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
