@@ -17,13 +17,13 @@
   "RootNamespace": "BasicWebReviewPartOne",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\newAlt.cshtml",
-      "TargetPath": "Views\\Root\\newAlt.cshtml",
+      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\index.cshtml",
+      "TargetPath": "Views\\Root\\index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\index.cshtml",
-      "TargetPath": "Views\\Root\\index.cshtml",
+      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day2\\BasicWebReviewPartOne\\Views\\Root\\newAlt.cshtml",
+      "TargetPath": "Views\\Root\\newAlt.cshtml",
       "FileKind": "mvc"
     }
   ],

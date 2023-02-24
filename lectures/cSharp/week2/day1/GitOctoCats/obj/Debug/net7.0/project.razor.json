@@ -17,13 +17,13 @@
   "RootNamespace": "GitOctoCats",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day1\\GitOctoCats\\Views\\Home\\index.cshtml",
-      "TargetPath": "Views\\Home\\index.cshtml",
+      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day1\\GitOctoCats\\Views\\OctoCat\\octocat.cshtml",
+      "TargetPath": "Views\\OctoCat\\octocat.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day1\\GitOctoCats\\Views\\OctoCat\\octocat.cshtml",
-      "TargetPath": "Views\\OctoCat\\octocat.cshtml",
+      "FilePath": "c:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\lectures\\cSharp\\week2\\day1\\GitOctoCats\\Views\\Home\\index.cshtml",
+      "TargetPath": "Views\\Home\\index.cshtml",
       "FileKind": "mvc"
     },
     {

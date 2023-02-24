@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj": {}
+    "C:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj": {
+    "C:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj",
+        "projectUniqueName": "C:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj",
         "projectName": "Portfolio1",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj",
+        "projectPath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\Portfolio1.csproj",
         "packagesPath": "C:\\Users\\jaysw\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\jaysw\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\obj\\",
+        "outputPath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\jan2023cohort\\assignments\\cSharp\\Portfolio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaysw\\AppData\\Roaming\\NuGet\\NuGet.Config"

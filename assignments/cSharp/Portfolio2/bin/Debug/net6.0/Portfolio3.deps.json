@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Portfolio2/1.0.0": {
+      "Portfolio3/1.0.0": {
         "runtime": {
-          "Portfolio2.dll": {}
+          "Portfolio3.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Portfolio2/1.0.0": {
+    "Portfolio3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
