@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using DojoSurvey.Models;
 namespace DojoSurvey.Controllers;
 
 public class HomeController : Controller
@@ -10,14 +11,20 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpPost("/process")]
+    public IActionResult Process(SurveyModel survey)
+    {
+        if(!ModelState.IsValid)
+        {
+            return View("Index");
+        }
+        return View("Submission", survey);
+    }
+
     [HttpPost]
     [Route("/result")]
-    public ViewResult Results(string name, string location, string language, string comments)
+    public ViewResult Results(SurveyModel survey)
     {
-        ViewBag.Name = name;
-        ViewBag.Location = location;
-        ViewBag.Language = language;
-        ViewBag.Comments = comments;
-        return View("Submission");
+        return View("Submission", survey);
     }
 }
