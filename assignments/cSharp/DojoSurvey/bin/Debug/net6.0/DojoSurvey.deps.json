@@ -6,15 +6,25 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
+<<<<<<<< HEAD:assignments/cSharp/DojoSurvey/bin/Debug/net6.0/DojoSurvey.deps.json
       "DojoSurvey/1.0.0": {
         "runtime": {
           "DojoSurvey.dll": {}
+========
+      "ReviewPartII/1.0.0": {
+        "runtime": {
+          "ReviewPartII.dll": {}
+>>>>>>>> refs/remotes/origin/main:lectures/cSharp/week2/day4/ReviewPartII/bin/Debug/net6.0/ReviewPartII.deps.json
         }
       }
     }
   },
   "libraries": {
+<<<<<<<< HEAD:assignments/cSharp/DojoSurvey/bin/Debug/net6.0/DojoSurvey.deps.json
     "DojoSurvey/1.0.0": {
+========
+    "ReviewPartII/1.0.0": {
+>>>>>>>> refs/remotes/origin/main:lectures/cSharp/week2/day4/ReviewPartII/bin/Debug/net6.0/ReviewPartII.deps.json
       "type": "project",
       "serviceable": false,
       "sha512": ""
