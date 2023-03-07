@@ -132,7 +132,6 @@ function testing(a, b, c) {
 
 testing(2, 'The answer is:', 4)
 
-//hello
 let x = 10
 let y = 20
 let a = 0
