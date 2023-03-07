@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "DojoSurvey/1.0.0": {
+      "Fundamentals2/1.0.0": {
         "runtime": {
-          "DojoSurvey.dll": {}
+          "Fundamentals2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DojoSurvey/1.0.0": {
+    "Fundamentals2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
