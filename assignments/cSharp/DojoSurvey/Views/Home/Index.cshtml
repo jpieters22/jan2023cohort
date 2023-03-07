@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="form">
-        <form action="/result" method="post">
+        <form  asp-controller="Home" action="/result" method="post">
             <label asp-for="Name">Your Name:</label>
             <input asp-for="Name"><br>
             <span asp-validation-for="Name"></span><br>
